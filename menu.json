@@ -1,0 +1,480 @@
+{
+    "plat_du_jour": {
+        "nom": "Bourguignon",
+        "accompagnement": "Test"
+    },
+    "carte": {
+        "entrees": [
+            {
+                "nom": "Entrée du jour",
+                "desc": "",
+                "prix": "6.90"
+            },
+            {
+                "nom": "Assiette Crudités Mixte",
+                "desc": "",
+                "prix": "6.90"
+            },
+            {
+                "nom": "Gésiers",
+                "desc": "",
+                "prix": "6.90"
+            },
+            {
+                "nom": "Oeuf Mayonnaise Maison",
+                "desc": "",
+                "prix": "6.90"
+            },
+            {
+                "nom": "Tresse de Tomate Mozzarella au basilic",
+                "desc": "",
+                "prix": "7.90"
+            },
+            {
+                "nom": "Avocat crevettes sauce cocktail",
+                "desc": "",
+                "prix": "7.90"
+            },
+            {
+                "nom": "Terrine de foie gras maison",
+                "desc": "",
+                "prix": "12.90"
+            },
+            {
+                "nom": "Croque Monsieur",
+                "desc": "accompagné de frites et salade",
+                "prix": "12.90"
+            },
+            {
+                "nom": "Croque Madame (oeufs sur le plat)",
+                "desc": "accompagné de frites et salade",
+                "prix": "13.90"
+            },
+            {
+                "nom": "Omelettre garnie",
+                "desc": "jambon, champignon, fromage. accompagnée de frites et salade",
+                "prix": "13.90"
+            },
+            {
+                "nom": "Assiette Kebab",
+                "desc": "accompagnée de frites et salade",
+                "prix": "13.90"
+            }
+        ],
+        "salades": [
+            {
+                "nom": "La Parisienne",
+                "desc": "Salade, tomates, oignons, jambon blanc, emmental, œuf dur.",
+                "prix": "15.90"
+            },
+            {
+                "nom": "La Chavignol",
+                "desc": "Salade, tomates, oignons, chèvre chaud, noix, crotin de Chavignol, noix, pomme verte",
+                "prix": "16.90"
+            },
+            {
+                "nom": "La César",
+                "desc": "Salade, tomates, oignons, blanc de volaille, croûtons, copeaux de fromage italien, sauce césar maison",
+                "prix": "16.90"
+            },
+            {
+                "nom": "L'Italienne",
+                "desc": "Salade, tomates, oignons, poivrons marinés, mozzarella, jambon de pays, pesto",
+                "prix": "16.90"
+            },
+            {
+                "nom": "La Niçoise",
+                "desc": "Salade, tomates, oignons, poivrons, olives, thon, anchois, oeuf dur",
+                "prix": "16.90"
+            },
+            {
+                "nom": "La Périgoudine",
+                "desc": "Salade, tomates, oignons, pomme de terre, gésiers de volaille, foie gras maison",
+                "prix": "18.90"
+            },
+            {
+                "nom": "La Marina",
+                "desc": "Salade, tomates, champignons, saumon fumé, thon, crevettes",
+                "prix": "18.90"
+            },
+            {
+                "nom": "Plateau Terre Mer",
+                "desc": "Salade, tomates, jambon de pays, foie gras maison, saumon fumé, crevettes",
+                "prix": "19.90"
+            }
+        ],
+        "pizzas": [
+            {
+                "nom": "Margherita",
+                "desc": "Sauce tomate, mozzarella, olives, origan",
+                "prix": "12"
+            },
+            {
+                "nom": "Reine",
+                "desc": "Sauce tomate, mozzarella, jambon, champignons, origan",
+                "prix": "14.90"
+            },
+            {
+                "nom": "Napolitaine",
+                "desc": "Sauce tomate, mozzarella, anchois, câpres, olives, origan",
+                "prix": "14.90"
+            },
+            {
+                "nom": "Calzone (soufflée)",
+                "desc": "Sauce tomate, mozzarella, jambon, oeuf",
+                "prix": "14.90"
+            },
+            {
+                "nom": "Végétarienne",
+                "desc": "Sauce tomate, mozzarella, champignons, artichauts, poivrons, olives, origan",
+                "prix": "14.90"
+            },
+            {
+                "nom": "Orientale",
+                "desc": "Sauce tomate, mozzarella, merguez, poivrons, olives, oeuf, oignons, origan",
+                "prix": "15.90"
+            },
+            {
+                "nom": "Parme",
+                "desc": "Sauce tomate, mozzarella, jambon de pays, tomates fraîches, roquette, oeuf, origan",
+                "prix": "15.90"
+            },
+            {
+                "nom": "Quatre fromages",
+                "desc": "Sauce tomate, mozzarella, chèvre, bleu, reblochon, origan",
+                "prix": "15.90"
+            },
+            {
+                "nom": "Provençale",
+                "desc": "Sauce tomate, mozzarella, thon, poivrons, oeuf, olives, citron, origan",
+                "prix": "15.90"
+            },
+            {
+                "nom": "Bourguignonne",
+                "desc": "Sauce tomate, mozzarella, champignons, viande hâchée, oeuf, olives, oignons, origan",
+                "prix": "16.90"
+            },
+            {
+                "nom": "Savoyarde",
+                "desc": "Crème fraîche, mozzarella, lardons, pommes de terre, reblochon, origons, origan",
+                "prix": "16.90"
+            },
+            {
+                "nom": "Fermière",
+                "desc": "Crème fraîche, mozzarella, poulet, pommes de terre, champignon, oignons, origan",
+                "prix": "16.90"
+            },
+            {
+                "nom": "Norvégienne",
+                "desc": "Sauce tomate, mozzarella, saumon fumé, crème fraîche, citron",
+                "prix": "17.90"
+            }
+        ],
+        "burgers": [
+            {
+                "nom": "Bourguignon",
+                "desc": "Bacon, cheddar fondu",
+                "prix": "15.90"
+            },
+            {
+                "nom": "Poulet",
+                "desc": "Oignons, poivrons, cheddar fondu",
+                "prix": "15.90"
+            },
+            {
+                "nom": "Italien",
+                "desc": "Jambon de pays, gorgonzola",
+                "prix": "16.90"
+            },
+            {
+                "nom": "Savoyard",
+                "desc": "Jambon de pays, reblochon",
+                "prix": "16.90"
+            }
+        ],
+        "viandes": [
+            {
+                "nom": "Escalope de veau normande (accompagnée de tagliatelles)",
+                "desc": "Sauce normande",
+                "prix": "17.90"
+            },
+            {
+                "nom": "Escalope de veau milanaise (accompagnée de tagliatelles)",
+                "desc": "Sauce tomate",
+                "prix": "17.90"
+            },
+            {
+                "nom": "Andouillette (accompagnée de frites et de salade)",
+                "desc": "Sauce moutarde à l'ancienne",
+                "prix": "17.90"
+            },
+            {
+                "nom": "Cuisse de canard (accompagnée de frites et de salade)",
+                "desc": "Sauce au poivre",
+                "prix": "17.90"
+            },
+            {
+                "nom": "Poulet label rouge (accompagné de frites et de salade)",
+                "desc": "Rôti dans son jus",
+                "prix": "16.90"
+            }
+        ],
+        "poissons": [
+            {
+                "nom": "Pavé de saumon",
+                "desc": "Sauce au beurre ou citron. Accompagné de tagliatelles",
+                "prix": "17.90"
+            },
+            {
+                "nom": "Aile de raie",
+                "desc": "Sauce grenobloise",
+                "prix": "16.90"
+            }
+        ],
+        "pates": [
+            {
+                "nom": "Tagliatelles Carbonara",
+                "desc": "Crème fraîche, lardons",
+                "prix": "13.90"
+            },
+            {
+                "nom": "Tagliatelles Saumon \/ Crevettes",
+                "desc": "",
+                "prix": "15.90"
+            }
+        ],
+        "desserts": [
+            {
+                "nom": "Une Boule",
+                "desc": "",
+                "prix": "2.90"
+            },
+            {
+                "nom": "Deux Boules",
+                "desc": "",
+                "prix": "4,90"
+            },
+            {
+                "nom": "Trois Boules",
+                "desc": "",
+                "prix": "6.90"
+            },
+            {
+                "nom": "Supplément Chantilly",
+                "desc": "",
+                "prix": "1"
+            },
+            {
+                "nom": "Banana Split",
+                "desc": "Vanille, chocolat, fraise, Banane coulis chocolat Chantilly",
+                "prix": "7.90"
+            },
+            {
+                "nom": "Nougat",
+                "desc": "Coulis de fruits rouge",
+                "prix": "7.90"
+            },
+            {
+                "nom": "Coupe liégeoise (café, chocolat ou caramel)",
+                "desc": "3 boules au choix + coulis et chantilly",
+                "prix": "7.90"
+            },
+            {
+                "nom": "Dame Blanche",
+                "desc": "3 boules vanille, coulis chocolat, chantilly",
+                "prix": "7.90"
+            },
+            {
+                "nom": "Colonel (avec alcool)",
+                "desc": "3 boules citron vert, vodka",
+                "prix": "8.90"
+            },
+            {
+                "nom": "Bourguignone (avec alcool)",
+                "desc": "1 boule, café, vanille, caramel, Baileys",
+                "prix": "8.90"
+            },
+            {
+                "nom": "Dessert du jour",
+                "desc": "",
+                "prix": "5.90"
+            },
+            {
+                "nom": "Crème caramel",
+                "desc": "",
+                "prix": "6.90"
+            },
+            {
+                "nom": "Mousse au chocolat",
+                "desc": "",
+                "prix": "6.90"
+            },
+            {
+                "nom": "Fromage blanc",
+                "desc": "coulis de fruits rouges",
+                "prix": "6.90"
+            },
+            {
+                "nom": "Panacotta maison",
+                "desc": "",
+                "prix": "6.90"
+            },
+            {
+                "nom": "Tarte aux pommes",
+                "desc": "",
+                "prix": "6.90"
+            },
+            {
+                "nom": "Tiramisu",
+                "desc": "",
+                "prix": "6.90"
+            },
+            {
+                "nom": "Tarte tatin avec glace vanille",
+                "desc": "",
+                "prix": "7.90"
+            },
+            {
+                "nom": "Crème brûlée",
+                "desc": "",
+                "prix": "7.90"
+            },
+            {
+                "nom": "Café gourmand",
+                "desc": "",
+                "prix": "6.90"
+            },
+            {
+                "nom": "Thé gourmand",
+                "desc": "",
+                "prix": "7.90"
+            }
+        ],
+        "boissons": [
+            {
+                "nom": "Café",
+                "desc": "",
+                "prix": "2.20"
+            },
+            {
+                "nom": "Eau Minérale 50cl",
+                "desc": "",
+                "prix": "3.50"
+            },
+            {
+                "nom": "Coca-Cola 33cl",
+                "desc": "",
+                "prix": "3.90"
+            },
+            {
+                "nom": "Bière Pression 25cl",
+                "desc": "",
+                "prix": "4.50"
+            }
+        ],
+        "viandes rouges": [
+            {
+                "nom": "Entrecôte",
+                "desc": "Sauce poivre",
+                "prix": "21.90"
+            },
+            {
+                "nom": "Bavette d'aloyau",
+                "desc": "Sauce échalotte",
+                "prix": "17.90"
+            },
+            {
+                "nom": "Pavé de rumsteack",
+                "desc": "Sauce poivre",
+                "prix": "17.90"
+            },
+            {
+                "nom": "Tartare de boeuf",
+                "desc": "Sauce maison",
+                "prix": "16.90"
+            },
+            {
+                "nom": "Tartare italien",
+                "desc": "Pesto et copeaux de parmesan",
+                "prix": "17.90"
+            },
+            {
+                "nom": "Steak haché",
+                "desc": "",
+                "prix": "15.90"
+            },
+            {
+                "nom": "Steak à cheval",
+                "desc": "",
+                "prix": "15.90"
+            }
+        ],
+        "alcools": [
+            {
+                "nom": "Kir cassis, mûre, pêche (14 cl)",
+                "desc": "",
+                "prix": "3.90"
+            },
+            {
+                "nom": "Kir bourguignon (14 cl)",
+                "desc": "",
+                "prix": "3.90"
+            },
+            {
+                "nom": "Kir royal (12 cl)",
+                "desc": "",
+                "prix": "8"
+            },
+            {
+                "nom": "Coupe de Champagne (12 cl)",
+                "desc": "",
+                "prix": "7.5"
+            },
+            {
+                "nom": "Ricard\/Pastis (2 cl)",
+                "desc": "",
+                "prix": "3.90"
+            },
+            {
+                "nom": "Martini Blanc\/Rouge (6 cl)",
+                "desc": "",
+                "prix": "4.90"
+            },
+            {
+                "nom": "Campari, Suze (6 cl)",
+                "desc": "",
+                "prix": "4.90"
+            },
+            {
+                "nom": "Porto Blanc \/ Rouge (6 cl)",
+                "desc": "",
+                "prix": "4.90"
+            },
+            {
+                "nom": "JB \/ Clan Campbell (4 cl)",
+                "desc": "",
+                "prix": "6.50"
+            },
+            {
+                "nom": "Chivas \/ Jack Daniel's (4 cl)",
+                "desc": "",
+                "prix": "8"
+            },
+            {
+                "nom": "Américano (6 cl)",
+                "desc": "",
+                "prix": "7.9"
+            },
+            {
+                "nom": "Gin \/ Martini Gin, Gin Tonic (6 cl)",
+                "desc": "",
+                "prix": "7.90"
+            },
+            {
+                "nom": "Vodka, Malibu Orange, Tequila Soda (6 cl)",
+                "desc": "",
+                "prix": "7.9"
+            }
+        ]
+    }
+}
